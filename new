@@ -1,0 +1,138 @@
+!header
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Turning+data+into+decisions+with+ML;Building+smart+things+with+IoT+and+Python;Full‑stack+curiosity%3A+HTML+%7C+CSS+%7C+JS+%7C+Flask;Always+learning%2C+always+shipping">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Turning+data+into+decisions+with+ML;Building+smart+things+with+IoT+and+Python;Full‑stack+curiosity%3A+HTML+%7C+CSS+%7C+JS+%7C+Flask;Always+learning%2C+always+shipping" alt="Typing SVG">
+  </a>
+</p>
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+``python
+About Me
+name = "Samitha Sri J"
+location = "Pudukkottai, India"
+email = "samitha3864@gmail.com"
+linkedin = "linkedin.com/in/samitha-sri"  # placeholder; update with exact handle
+github = "samithasam"
+
+degree = "B.Tech in Artificial Intelligence and Data Science (2023–2027)"
+stack = [
+    "Python", "Java", "HTML", "CSS", "JavaScript", "Flask",
+    "MySQL", "MongoDB",
+    "IoT", "Arduino", "Networking Essentials"
+]
+currentlyLearning = ["Advanced CNNs", "MLOps basics", "Cloud for IoT dashboards"]
+
+funFact = "I can debug hardware wiring and Python code in the same sitting."
+def motto():
+    return "Build, measure, learn — then improve."
+`
+
+Tech Stack
+• Languages  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+• Frameworks  
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+• Cloud & DevOps  
+  <img src="https://img.shields.io/badge/IoT-00B5E2?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white"/>
+
+• Databases  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+• Tools  
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
+GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/samithasam">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=samithasam&showicons=true&theme=tokyonight&hideborder=true&includeallcommits=true&countprivate=true&bgcolor=0d1117&titlecolor=70a5fd&iconcolor=bf91f3&textcolor=c9d1d9&borderradius=10" />
+  </a>
+  <a href="https://github.com/samithasam">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samithasam&layout=compact&theme=tokyonight&hideborder=true&bgcolor=0d1117&titlecolor=70a5fd&textcolor=c9d1d9&langscount=8&borderradius=10" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samithasam&theme=tokyonight-duo&hideborder=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&borderradius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samithasam&theme=tokyo-night&bgcolor=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hideborder=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samithasam&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+</p>
+
+Work Experience
+
+<details>
+  <summary><b>Internship-seeking — AI/ML & IoT (Open to Opportunities) | 2026 | Pudukkottai, IN</b></summary>
+  <blockquote>
+    Tech: Python, CNN, Flask, MySQL, MongoDB, Arduino, IoT, Networking
+  </blockquote>
+
+  - Built end-to-end ML prototypes from dataset prep to model evaluation, targeting image classification use-cases (CNNs).  
+  - Developed IoT proof-of-concepts integrating sensor data, microcontrollers, and simple web dashboards to control/monitor devices.  
+  - Delivered web utilities using Flask + JS to visualize metrics and enable basic CRUD operations on MySQL/MongoDB.  
+  - Collaborated on campus projects, focusing on reproducibility and documentation to accelerate onboarding for peers.
+</details>
+
+Featured Projects
+
+<p align="center">
+
+| Project | Stack | Highlights |
+|---|---|---|
+| Plant Leaf Disease Detection | Python, CNN, TensorFlow/PyTorch, Flask | Trained a CNN to classify plant diseases from images; wrapped inference in a simple Flask UI for uploads; emphasized dataset hygiene and augmentation for generalization. |
+| Smart Home Automation (IoT) | Arduino, IoT Sensors, MQTT/HTTP, JS | Implemented sensor-based monitoring and device control; mobile-friendly interface for toggles and status; structured data logging for trend analysis. |
+| Student Result Prediction | Python, scikit-learn, Pandas, Matplotlib | Built ML model to predict student performance for early interventions; compared algorithms and tuned hyperparameters; produced explainable metrics and plots. |
+
+</p>
+
+Achievements
+
+<p align="center">
+
+| 🎖️ | Achievement | Details |
+|---|---|---|
+| 🧠 | Certifications | Machine Learning with Python; IoT Fundamentals; Introduction to Web Development |
+| 🌱 | Campus Impact | Contributed to academic ML/IoT demos used for peer learning sessions |
+| 💻 | Open Source | Growing GitHub portfolio with ML notebooks and IoT prototypes |
+
+</p>
+
+Education
+
+<p align="center">
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech — Artificial Intelligence and Data Science | Mount Zion College of Engineering and Technology, Pudukkottai | 2027 (Expected) | — |
+| Higher Secondary | Alagappa Model Higher Secondary | 2023 | — |
+
+</p>
+
+Currently Learning
+
+`
+🧱 Advanced CNNs → transfer learning, data augmentation, deployment
+🔧 IoT at scale → sensor networks, basic cloud dashboards, security hygiene
+🌐 Full‑stack polish → Flask APIs, auth, frontend UX patterns
+``
+
+Contact
+• Email: samitha3864@gmail.com  
+• GitHub: github.com/samithasam  
+• LinkedIn: linkedin.com/in/samitha-sri  (update with exact profile URL)  
+• Phone: +91 7092053105
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samithasam&label=Profile%20Views&color=70a5fd&style=flat-square" />
+</p>
+
+!footer
