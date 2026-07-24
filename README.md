@@ -18,7 +18,7 @@
 
 # 🚀 About Me
 
-🎓 **B.E. Computer Science Engineering (4th Year)**
+🎓 **b.Tech Artificial intelligence and data Science (4th Year)**
 🏫 **Mount Zion College of Engineering and Technology, Pudukkottai**
 🇮🇳 Based in India
 
